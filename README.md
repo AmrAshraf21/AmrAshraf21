@@ -1,4 +1,4 @@
-### Hi there, Welcome to our Repo 👋
+### Hi there, Welcome to my Profile 👋
 
 # I'm Amr Ashraf MERN Stack Developer.
 
