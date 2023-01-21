@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to our Repo 👋
+
+# I'm Amr Ashraf MERN Stack Developer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
