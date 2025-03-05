@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Profile 👋
 
-# I'm Amr Ashraf MERN Stack Developer.
+# I'm Amr Ashraf .NET  Developer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
